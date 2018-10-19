@@ -1,0 +1,4 @@
+top=Tk()
+top.geometry("100x100")
+top.mainloop()
+top.title("Title_Here")
